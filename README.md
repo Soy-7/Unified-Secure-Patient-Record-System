@@ -147,9 +147,9 @@ docker exec -it ehr_mongodb mongosh ehrdb
 
 Meet the minds behind the Secure EHR Platform:
 
-*   **Lead Developer** ([@Soy-7](https://github.com/Soy-7)) - Architecture & Core Security logic.
-*   **Srihari** ([@srihari-codes](https://github.com/srihari-codes)) - Frontend Engineering & UI/UX Design.
-*   **RAKAVIP2** ([@rakavip2-bot](https://github.com/rakavip2-bot)) - Systems Integration & Backend Infrastructure.
+*   **SAI SHRAVAN** ([@Soy-7](https://github.com/Soy-7)) 
+*   **SRIHARI** ([@srihari-codes](https://github.com/srihari-codes))
+*   **RAKAVI** ([@rakavip2-bot](https://github.com/rakavip2-bot)) 
 
 ---
 
